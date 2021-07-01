@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/instagram-FE7A16?logo=instagram&logoColor=white&style=for-the-badge" />](https://www.instagram.com/mkverma643/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@mkverma643)
 <br>
+<br>
 ## Expertise
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="php" src="https://img.shields.io/badge/php-%23232F3E?logo=php&logoColor=white&style=for-the-badge" />
