@@ -8,7 +8,6 @@ I'm a self-taught Software Developer, I started of with simple Webpage Developme
 - 🔭 Working on multiple frontend and backend project using React/Laravel and Nodejs/PHP
 - 🌱 Learning various design patterns in depth
 <br>
-<br>
 
 Here are some ideas to get you started:
 
@@ -28,7 +27,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/mkverma643)
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/instagram-FE7A16?logo=instagram&logoColor=white&style=for-the-badge" />](https://www.instagram.com/mkverma643/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@mkverma643)
-<br>
 <br>
 ## Expertise
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
