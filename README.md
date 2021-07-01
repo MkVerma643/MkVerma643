@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am a fullstack software engineer from India.
-I'm a self-taught software developer. I started of with simple webpage development from scratch. I have an Intermediate experience in developing Web Application.
+I am a Fullstack Software Engineer from India.
+I'm a self-taught Software Developer, I started of with simple Webpage Development from Scratch. I have an Intermediate Experience in Developing Web Application.
 
 <!--
 **MkVerma643/MkVerma643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
