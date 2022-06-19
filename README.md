@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Fullstack Software Engineer from India.
+I am a Fullstack Software Developer from India.
 I'm self-taught Developer, having an Intermediate Level Experience in Web Application Development.
 
 <!--
