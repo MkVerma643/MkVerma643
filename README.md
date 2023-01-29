@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am a Fullstack Software Developer from India.
-I'm self-taught Developer, having an Intermediate Level Experience in Web Application Development.
+I'm self-taught Fullstack Software Developer from India. I have an Intermediate Level Experience in Modern Web Application Development, Majorly in Stacks like PHP, Node.js and Java.
 
 <!--
 **MkVerma643/MkVerma643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
