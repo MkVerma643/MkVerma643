@@ -38,7 +38,7 @@ Feel free to connect with me on any of the following platforms:
 
 ## 🛠️ Technologies & Tools
 - **Frontend:**
-- ![JQuery](https://img.shields.io/badge/jquery-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+- ![JQuery](https://img.shields.io/badge/jquery-%232496ED?style=for-the-badge&logo=angular&logoColor=white) 
   ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) 
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   
