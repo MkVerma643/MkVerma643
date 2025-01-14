@@ -37,7 +37,8 @@ Feel free to connect with me on any of the following platforms:
 ---
 
 ## 🛠️ Technologies & Tools
-- **Frontend:**  
+- **Frontend:**
+- ![JQuery](https://img.shields.io/badge/jquery-blue) 
   ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) 
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   
@@ -50,7 +51,8 @@ Feel free to connect with me on any of the following platforms:
   ![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-3DDC84?logo=MongoDB&logoColor=white&style=for-the-badge)
 
-- **DevOps & Tools:**  
+- **DevOps & Tools:**
+- ![AWS](https://img.shields.io/badge/aws-8A2BE2))
   ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)
@@ -58,4 +60,4 @@ Feel free to connect with me on any of the following platforms:
 ---
 
 ## ⚡ Fun Fact
-I’m always on the lookout for new technologies to enhance my fullstack development workflow. My latest interests include **AI/ML integrations** and **Web3** development.
+I’m always looking for new technologies to enhance my full-stack development workflow. My latest interests include **AI/ML integrations** and **Web3** development.
