@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a self-taught **Full-Stack Software Developer** from India, with a passion for crafting scalable, high-performance web applications. My experience spans across a variety of modern technologies, with a focus on **PHP**, **Node.js**, and **Phyton**. I continuously explore best practices, design patterns, and architecture principles to deliver efficient and maintainable code.
+I'm a self-taught **Full-Stack Software Developer** from India, with a passion for crafting scalable, high-performance web applications. My experience spans across a variety of modern technologies, with a focus on **PHP**, **Node.js**, and **Python**. I continuously explore best practices, design patterns, and architecture principles to deliver efficient and maintainable code.
 
 ---
 
@@ -18,7 +18,7 @@ I'm a self-taught **Full-Stack Software Developer** from India, with a passion f
 ---
 
 ## 💬 Ask Me About
-- Fullstack Web Development (Frontend & Backend)
+- Full-stack Web Development (Frontend & Backend)
 - **Database Design** and **Optimization**
 - Building scalable **REST APIs** and **GraphQL APIs**
 - **Best practices** for **DevOps** and **CI/CD**
